@@ -1,3 +1,7 @@
+
+![image](https://user-images.githubusercontent.com/127351953/228051652-2a1f7f66-6cdb-4d2c-850b-f75674ed7577.png)
+
+
 # Bioinfo Class 2023 - Data Analysis for Health Science
 HELLOU :D
 
